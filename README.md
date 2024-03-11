@@ -138,4 +138,11 @@ AWS Lambda: Code that is executed after an event is triggered in AWS without the
 
 ### 4.4 AWS Container Services
 
+- Elastic Container Service ECS: Run and scale containerized applications. Use simple API calls to control docker-enabled applications.
+
+- Elastic Kubernetes Service EKS: Run kubernetes applications. An orquestation framework to work with containers
+
+- AWS Fargate: Run serverless containers with ECS or EKS. Pay only for the resources you use.
+
+## 5. Sesión 5
 
